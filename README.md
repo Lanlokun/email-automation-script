@@ -2,6 +2,9 @@
 
 ---- CLONE  THE REPO ----
 
+        python -m venv
+        pip install sendgrid
+
 STEP 1 : Add you file with list of all emails ( the offer.py script would help with sorting your file if needed)
 
 STEP 2: Replace the placeholders in the script with your own information
