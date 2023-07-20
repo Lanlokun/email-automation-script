@@ -8,4 +8,4 @@ STEP 2: Replace the placeholders in the script with your own information
 
 STEP 3: Save and Run python send_email.py
 
-Taaaaraaaaaaaaaaaaaaaaaaaaa!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! all your emails have been sent# email-automation-script
+Taaaaraaaaaaaaaaaaaaaaaaaaa!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! all your emails have been sent
